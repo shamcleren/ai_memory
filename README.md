@@ -1,8 +1,21 @@
-# 📤 AI记忆系统对外分享
+# 🧠 AI Memory System
 
-> 本文件夹提供完整的AI记忆系统构建和使用指南  
-> **系统侧重**：本系统主要面向开发场景，帮助开发者与AI协作管理代码、技术文档、项目任务等开发相关记忆
-> **系统仓库**：https://github.com/shamcleren/ai_memory
+> 基于文档的AI协作系统，让AI具备长期记忆能力
+
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)](https://github.com/shamcleren/ai_memory)
+[![AI Tool](https://img.shields.io/badge/AI%20Tool-Cursor%20%7C%20VS%20Code%20%7C%20Claude-orange)](https://cursor.sh/)
+
+**AI Memory System** 是一个基于文档的AI协作系统，旨在帮助开发者与AI助手建立长期、连续、智能的协作关系。通过文档化、规则化、自动化的方式，让AI能够记住你的工作习惯、管理你的知识资产、保持上下文连续性，并主动提供帮助。
+
+## ✨ 核心特性
+
+- 🧠 **长期记忆** - 突破单次对话限制，跨会话记忆连续性
+- 📝 **知识管理** - 自动创建、关联、索引技术文档和项目知识
+- ✅ **智能任务** - 自然语言创建任务，自动判断优先级
+- 🔗 **知识关联** - 自动建立文档关联，形成知识网络
+- 🚀 **开箱即用** - 一句话告诉AI，自动构建完整系统
+- 📊 **持续进化** - AI从使用中学习，不断优化协作效果
 
 ---
 
@@ -221,12 +234,20 @@ AI会自动：
 
 ---
 
-## 🔗 相关链接
+## 📄 许可证
 
-- **系统仓库**：https://github.com/shamcleren/ai_memory
-  - 本仓库用于维护 AI 记忆系统的文档和模板
-  - 欢迎 Star、Fork 和贡献
+本项目采用 [Apache-2.0 License](LICENSE) 开源协议。
 
 ---
 
-*本文件夹提供完整的AI记忆系统构建和使用指南*
+## 🤝 贡献
+
+欢迎贡献！如果你有任何建议或发现问题，欢迎：
+- 🐛 [提交 Issue](https://github.com/shamcleren/ai_memory/issues)
+- 💡 提出新功能建议
+- 📝 改进文档
+- 🔧 提交代码改进
+
+---
+
+**让AI成为你的智能工作伙伴** 🚀
